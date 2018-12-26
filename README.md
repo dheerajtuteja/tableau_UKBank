@@ -1,2 +1,6 @@
-# tableau_UKBank
-Visual Analytics Project - UK Bank Customer Segmentation (Dashboard &amp; Storytelling)
+# Tableau UK Bank Customer Segmentation
+## Visual Analytics Project 
+
+Please refer dataset __UK-Bank-Customers.csv__.
+Fields given in the database are `Customer ID`
+
