@@ -13,7 +13,7 @@ Fields given in the database are:
 
 > __Output Screen is shown below for reference__:
 
-
+![Screenshot](https://github.com/dheerajtuteja/tableau_UKBank/blob/master/Capture1.png)
 
 
 Best,
