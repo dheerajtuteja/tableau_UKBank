@@ -7,7 +7,7 @@ Fields given in the database are:
 
 `Customer ID` `Name` `Surname` `Gender` `Age` `Region` `Job Classification` `Date Joined` `Balance`
 
-> __Problem Definition__ : We need to analyse "Bank Customer Segmentation" fot states - __England__, __Scotland__, __Wales__ & __Northern Ireland__ with respect to _Gender_ & _Job Class_. 
+> __Problem Definition__ : We need to create the __"Bank Customer Segmentation"__ and analyse _the Segmentation_ of states - __England__, __Scotland__, __Wales__ & __Northern Ireland__ with respect to _Gender_ & _Job Class_. 
 
 > __Tableau__ Dashboard must be interactive with a storyline.
 
